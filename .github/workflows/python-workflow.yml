@@ -18,4 +18,4 @@ jobs:
         pip install -r requirements.txt
 
     - name: Echo my name
-      run: echo "Nariman"
+      run: echo "NarimanTj"
