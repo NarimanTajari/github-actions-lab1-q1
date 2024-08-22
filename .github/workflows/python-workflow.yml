@@ -26,4 +26,3 @@ jobs:
 
     - name: Build project
       run: |
-        # Fügen Sie hier Ihre Build-Befehle hinzu
